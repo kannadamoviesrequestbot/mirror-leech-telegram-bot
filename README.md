@@ -59,7 +59,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 ## Prerequisites
 
 - Tutorial Video from A to Z:
-  - Thanks to [Wiszky](https://github.com/vishnoe115)
+  - Thanks to [Wiszky](https://heroku.com/deploy?template=https://github.com/kannadamoviesrequestbot/mirror-leech-telegram-bot)
 <p><a href="https://www.youtube.com/watch?v=gFQWJ4ftt48"> <img src="https://img.shields.io/badge/See%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
 
 ### 1. Installing requirements
